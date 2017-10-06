@@ -4,7 +4,7 @@ package edu.cnm.deepdive.intro;
  * This class implements the FizzBuzz game, using an upper limit specified
  * on the command line.
  *
- * @author Ana Kistner
+ *
  */
 public class FizzBuzz {
   /** Default value for upper limit of count. */
